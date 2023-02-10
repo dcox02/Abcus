@@ -4,8 +4,8 @@ clever-buttercream-10ebea
 
 @font-face {
     font-family: 'Unnamed';
-    src: url('https://clever-buttercream-10ebea.netlify.app/css/fonts/Unnamed.woff2') format('woff2'),
-         url('https://clever-buttercream-10ebea.netlify.app/css/fonts/Unnamed.woff') format('woff');
+    src: url('Unnamed.woff2') format('woff2'),
+         url('Unnamed.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
